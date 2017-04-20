@@ -4,7 +4,7 @@
 同学们有福了，花了一些时间，重新整理了一个最完整的Mybatis Generator（简称MBG）的最完整配置文件，带详解，再也不用去看EN的User Guide了；
 
 
-<?xml version="1.0" encoding="UTF-8"?>
+'<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE generatorConfiguration
   PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
 "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
@@ -286,7 +286,8 @@
 
 </context>
 
-</generatorConfiguration>
+</generatorConfiguration>'
+
 好了，就到这里了，可以作为一个工具文档查看。
 
 
